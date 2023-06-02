@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "3uzduotis": "nodemon ./uzduotys/3uzduotis.js",
     "2uzduotis": "nodemon ./uzduotys/2uzduotis.js",
     "1uzduotis": "nodemon ./uzduotys/1uzduotis.js",
     "dev": "nodemon",
